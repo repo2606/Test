@@ -9,7 +9,7 @@ public class Test {
 		
 		System.out.println("length of string is :"+str.length());
 
-		System.out.println("end of program");
+		System.out.println("end");
 
 	}
 
